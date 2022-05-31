@@ -11,7 +11,7 @@
 - Game Development
 
 ### Forged Alliance Forever (FAF)
-My Role at FAF is that I'm the Promotions Team Lead, that deals with communicating with other communities as well as dealing with promotional material for internal events.
+I'm the Promotions Team Lead at FAF, my role is to communicate with a range of other communities, as well as deal with promotional material for internal events.
 
 #### FAF Based Repos
 - [Game Code](https://github.com/MrRowey/Local-FA)
